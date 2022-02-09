@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486565642750",
+    "project_id": "asro-shope-getx",
+    "storage_bucket": "asro-shope-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486565642750:android:fc977e6397d20ff1abc0af",
+        "android_client_info": {
+          "package_name": "com.example.u_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486565642750-ll1prv36qo14t6oj779lsqf7kutmtbpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC5ORAO_K_6QpGHAScUIMb_PVWdSyVLTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486565642750-ll1prv36qo14t6oj779lsqf7kutmtbpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
